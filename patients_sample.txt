@@ -1,0 +1,6 @@
+5
+John       Doe       11122111   87654321   19901212   A+     "Critical injury in leg"   20240101   20240115
+Jane       Smith     23575412   -1         19881103   O-     "Moderate fever"           20240201   -1
+Alice      Johnson   95215723   87654321   20000101   AB     "Stable condition"         20240301   -1
+Bob        Brown     11254898   12345678   19780125   B      "Critical heart issue"     20240401   20240420
+Emily      Davis     35687942   23456789   19951231   O+     "Stable checkup"           20240501   -1
